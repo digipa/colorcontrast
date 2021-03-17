@@ -1,0 +1,11 @@
+{
+  "name": "colorcontrast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/digipa/colorcontrast.git",
+  "author": "digipa <37922236+digipa@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rebuild": "^0.1.2"
+  }
+}
